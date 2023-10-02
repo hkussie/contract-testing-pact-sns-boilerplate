@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@pact-foundation/pact": "^12.1.0",
+    "jest": "^29.7.0"
+  }
 }
